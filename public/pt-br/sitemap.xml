@@ -2,167 +2,167 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>//localhost:1313/pt-br/categories/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/categories/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/"
+                href="https://qqabc1.github.io/heyo/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/categories/"
+                href="https://qqabc1.github.io/heyo/pt-br/categories/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/creative-coding/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/tags/creative-coding/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/creative-coding/"
+                href="https://qqabc1.github.io/heyo/tags/creative-coding/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/tags/creative-coding/"
+                href="https://qqabc1.github.io/heyo/pt-br/tags/creative-coding/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/"
+                href="https://qqabc1.github.io/heyo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/"
+                href="https://qqabc1.github.io/heyo/pt-br/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/categories/heyo/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/categories/heyo/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/categories/heyo/"
+                href="https://qqabc1.github.io/heyo/categories/heyo/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/categories/heyo/"
+                href="https://qqabc1.github.io/heyo/pt-br/categories/heyo/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/javascript/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/tags/javascript/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/javascript/"
+                href="https://qqabc1.github.io/heyo/tags/javascript/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/tags/javascript/"
+                href="https://qqabc1.github.io/heyo/pt-br/tags/javascript/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/p5js/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/tags/p5js/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/p5js/"
+                href="https://qqabc1.github.io/heyo/tags/p5js/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/tags/p5js/"
+                href="https://qqabc1.github.io/heyo/pt-br/tags/p5js/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/post/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/post/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/post/"
+                href="https://qqabc1.github.io/heyo/post/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/post/"
+                href="https://qqabc1.github.io/heyo/pt-br/post/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/post/sketechs/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/post/sketechs/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/</loc>
-    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="//localhost:1313/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="pt-br"
-                href="//localhost:1313/pt-br/tags/"
-                />
-  </url><url>
-    <loc>//localhost:1313/pt-br/tags/theme/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/tags/</loc>
     <lastmod>2023-08-07T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/tags/theme/"
+                href="https://qqabc1.github.io/heyo/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/tags/theme/"
+                href="https://qqabc1.github.io/heyo/pt-br/tags/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/tags/shortcodes/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/tags/theme/</loc>
+    <lastmod>2023-08-07T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://qqabc1.github.io/heyo/tags/theme/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="pt-br"
+                href="https://qqabc1.github.io/heyo/pt-br/tags/theme/"
+                />
+  </url><url>
+    <loc>https://qqabc1.github.io/heyo/pt-br/tags/shortcodes/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/post/thumbnail/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/post/thumbnail/</loc>
     <lastmod>2023-08-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/post/callouts/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/post/callouts/</loc>
     <lastmod>2023-08-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/post/indice/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/post/indice/</loc>
     <lastmod>2023-08-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/post/renderizando-matematica/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/post/renderizando-matematica/</loc>
     <lastmod>2023-08-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/post/badges/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/post/badges/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/pt-br/about/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/about/</loc>
     <lastmod>2023-08-01T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/about/"
+                href="https://qqabc1.github.io/heyo/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/about/"
+                href="https://qqabc1.github.io/heyo/pt-br/about/"
                 />
   </url><url>
-    <loc>//localhost:1313/pt-br/series/</loc>
+    <loc>https://qqabc1.github.io/heyo/pt-br/series/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="//localhost:1313/series/"
+                href="https://qqabc1.github.io/heyo/series/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="pt-br"
-                href="//localhost:1313/pt-br/series/"
+                href="https://qqabc1.github.io/heyo/pt-br/series/"
                 />
   </url>
 </urlset>
