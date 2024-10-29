@@ -1,6 +1,6 @@
 title = "heyo"
 theme = "heyo-hugo-theme"
-baseURL = "/"
+baseURL = "https://qqabc1.github.io/heyo"
 languageCode = "zh-cn"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = false
@@ -9,7 +9,7 @@ enableEmoji = true
 enableRobotsTXT = true
 paginate = 10
 
-# Disqus comments
+# Disqus commentsit
 # https://gohugo.io/templates/internal/#configure-disqus
 # disqusShortname = ""
 
